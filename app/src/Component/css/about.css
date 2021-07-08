@@ -1,0 +1,70 @@
+
+.section-about{
+    background-color: #f7f7f7;
+   padding: 3rem 0rem;
+
+}
+.heading-secondary{
+    font-size:44px ;
+    text-align: center;
+   font-weight: 700;
+    font-family: 'Dancing Script', cursive;
+
+    
+
+}
+.container{
+    
+    padding: 1.5rem;
+    
+
+}
+.paragraph{
+    
+    color: #1e272e;
+    font-weight: 100;
+    letter-spacing: 1.5px;
+    font-style: italic;
+    padding: 2rem;
+    }
+.fcontainer{
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 0;
+
+}
+.row-container {
+    display: flex;
+    padding: 2rem;
+}
+.row-container > div{
+    width: 40rem;
+}
+
+.heading{
+    font-size: 38px;
+    padding: 0rem;
+    margin-bottom: 8px;
+    font-family: 'Dancing Script', cursive;
+}
+.col-container{
+    padding: 3rem;
+}
+p{
+    font-style: italic;
+}
+.image__1{
+    margin-left: 100px;
+}
+
+.border{
+    border-bottom: 4px solid;
+    border-bottom-color: #a50105;
+    width: 60px;
+    margin-bottom: 12px;
+
+}
+.image__2{
+    height: -10px;
+}
+
